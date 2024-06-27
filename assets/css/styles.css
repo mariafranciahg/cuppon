@@ -1,0 +1,18 @@
+.font-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+
+  .font-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.font-title {
+    font-size: 1.4rem;
+    color: #212529;
+  }
+
